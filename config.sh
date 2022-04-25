@@ -1,28 +1,28 @@
 #!/bin/bash
 
-export GITHUB_USER="nalexcastaneda"
-export GITHUB_EMAIL="alex@alex-dev.me"
+export GITHUB_USER=""
+export GITHUB_EMAIL=""
 
-export device="cedric"
+export device=""
 
-export ROM="MaruOS"
-export ROM_DIR="/var/lib/jenkins/MaruOS"
-export ROM_VERSION="9.0 Pie"
-export local_manifest_url="https://github.com/nalexcastaneda/android_device_motorola_cedric.git -b maru-0.7"
-export manifest_url="https://github.com/maruos/manifest.git"
-export rom_vendor_name="maru"
-export branch="maru-0.7"
+export ROM=""
+export ROM_DIR=""
+export ROM_VERSION=""
+export local_manifest_url=""
+export manifest_url=""
+export rom_vendor_name=""
+export branch=""
 export bacon="bacon"
 export buildtype=""
-export clean="clean"
-export generate_incremental="false"
-export upload_recovery="false"
+export clean=""
+export generate_incremental=""
+export upload_recovery=""
 
-export ccache="true"
-export ccache_size="100"
+export ccache=""
+export ccache_size=""
 
-export jenkins="true"
+export jenkins="false"
 
-export release_repo="nalexcastaneda/releases"
+export release_repo=""
 
 export timezone="UTC"
