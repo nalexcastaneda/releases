@@ -6,7 +6,7 @@ export GITHUB_EMAIL="alex@alex-dev.me"
 export device="cedric"
 
 export ROM="maruOS"
-export ROM_DIR="${WORKSPACE}/../maruOS/"
+export ROM_DIR="${WORKSPACE}/../MaruOS/"
 export ROM_VERSION="0.7"
 export local_manifest_url="https://raw.githubusercontent.com/nalexcastaneda/local_manifests/main/cedric/maru/roomservice.xml"
 export manifest_url="https://github.com/maruos/manifest"
